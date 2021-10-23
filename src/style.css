@@ -23,7 +23,7 @@ body {
 }
 
 main {
-  background: url("/src/images/background.svg") no-repeat center center fixed;
+  background: url("../src/images/background.svg") no-repeat center center fixed;
   width: 375px;
   height: 812px;
   color: var(--grey);
